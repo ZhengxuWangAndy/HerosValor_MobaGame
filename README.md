@@ -119,5 +119,5 @@ Easily change initial money in config.
 1. Navigate to the directory "pa4" after unzipping the files
 2. Run the following instructions:
 <Example below>
-  javac -Xlint:unchecked -d bin ood/Main.java
+  javac -Xlint:unchecked -d bin ood/Main.java  
   java -cp bin ood.Main
