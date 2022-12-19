@@ -1,6 +1,6 @@
 ## Hero & Valor: A terminal based MOBA game
 
-https://github.com/ZhengxuWangAndy/HerosValor_MobaGame/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.22.25%20AM.png
+![image](https://github.com/ZhengxuWangAndy/HerosValor_MobaGame/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.22.25%20AM.png)
 
 ## Files
 ---------------------------------------------------------------------------
