@@ -120,4 +120,5 @@ Easily change initial money in config.
 2. Run the following instructions:
 <Example below>
   javac -Xlint:unchecked -d bin ood/Main.java  
+   
   java -cp bin ood.Main
